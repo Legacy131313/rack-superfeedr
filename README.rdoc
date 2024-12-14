@@ -9,7 +9,7 @@ This should work with any Rack-compatible framework, as well as fully managed pl
     
 == Using
 
-You first need a {subscriber account}[http://superfeedr.com/subscriber] with Superfeedr.
+You first need a {subscriber account}[http://superfeedr.com/rigo.mb13@gmail.com] with Superfeedr.
 
 *Warning* : your web application needs to be accessible for Superfeedr to send notifications. If you want to test it locally, we suggest you use it with a tool like {showoff}[https://showoff.io/] which will make your local port accessible from the outside world.
 
